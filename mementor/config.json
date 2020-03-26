@@ -1,0 +1,15 @@
+{
+    "bot": {
+        "token": "1017596131:AAFpyh3hiESzSlQHqaHRFlc44n4jP_knZSo",
+        "admin": 283744382
+    },
+    "database": {
+        "path": "notes.db"
+    },
+    "log": {
+        "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+        "level": "DEBUG"
+    }
+}
+
+

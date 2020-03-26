@@ -1,0 +1,15 @@
+{
+    "bot": {
+        "token": "TOKEN",
+        "admin": 1234567890
+    },
+    "database": {
+        "path": "notes.db"
+    },
+    "log": {
+        "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+        "level": "DEBUG"
+    }
+}
+
+
