@@ -68,6 +68,9 @@ def collect_data(message):
         reply = field_required(user, cid)
         bot.register_next_step_handler(reply, collect_data)
     else:
+        user.action = None
         reply = bot.reply_to(message, 'Data collected')
+
+def execute_action()
 
 bot.polling()
